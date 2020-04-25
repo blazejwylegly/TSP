@@ -1,0 +1,5 @@
+Kolejnosc odwiedzania klientow:
+3
+6
+3
+Dlugosc wyznaczonej sciezki jest rowna 6.00
