@@ -1,2 +1,3 @@
 # TSP
-Simple C application solving TSP
+Simple application solving "Travelling salesman problem" written with C.
+
